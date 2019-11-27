@@ -1,0 +1,13 @@
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\bin\Debug\netcoreapp3.0\Core.Ioc.deps.json
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\bin\Debug\netcoreapp3.0\Core.Ioc.dll
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\obj\Debug\netcoreapp3.0\Core.Ioc.csprojAssemblyReference.cache
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\obj\Debug\netcoreapp3.0\Core.Ioc.AssemblyInfoInputs.cache
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\obj\Debug\netcoreapp3.0\Core.Ioc.AssemblyInfo.cs
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\bin\Debug\netcoreapp3.0\Core.Ioc.pdb
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\obj\Debug\netcoreapp3.0\Core.Ioc.dll
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\obj\Debug\netcoreapp3.0\Core.Ioc.pdb
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\bin\Debug\netcoreapp3.0\Core.Core.dll
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\bin\Debug\netcoreapp3.0\Core.Repository.dll
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\bin\Debug\netcoreapp3.0\Core.Core.pdb
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\bin\Debug\netcoreapp3.0\Core.Repository.pdb
+C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Ioc\obj\Debug\netcoreapp3.0\Core.Ioc.csproj.CopyComplete
