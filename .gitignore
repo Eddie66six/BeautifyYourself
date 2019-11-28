@@ -3,13 +3,6 @@
 ################################################################################
 
 /BeautifyYourself/.vs/BeautifyYourself
-/BeautifyYourself/src/Auth.Api/bin/Debug/netcoreapp3.0
-/BeautifyYourself/src/Auth.Api/obj
-/BeautifyYourself/src/Core.Api/bin/Debug/netcoreapp3.0
-/BeautifyYourself/src/Core.Api/obj
-/BeautifyYourself/src/Core.Core/bin/Debug/netcoreapp3.0
-/BeautifyYourself/src/Core.Core/obj
-/BeautifyYourself/src/Core.Ioc/bin/Debug/netcoreapp3.0
-/BeautifyYourself/src/Core.Ioc/obj
-/BeautifyYourself/src/Core.Repository/bin/Debug/netcoreapp3.0
-/BeautifyYourself/src/Core.Repository/obj
+/BeautifyYourself/src/*/bin/Debug/netcoreapp3.0
+/BeautifyYourself/src/*/obj
+/BeautifyYourself/src/*/*.user
