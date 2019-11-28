@@ -1,8 +1,0 @@
-C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Core\bin\Debug\netcoreapp3.0\Core.Core.deps.json
-C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Core\bin\Debug\netcoreapp3.0\Core.Core.dll
-C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Core\bin\Debug\netcoreapp3.0\Core.Core.pdb
-C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Core\obj\Debug\netcoreapp3.0\Core.Core.csprojAssemblyReference.cache
-C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Core\obj\Debug\netcoreapp3.0\Core.Core.AssemblyInfoInputs.cache
-C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Core\obj\Debug\netcoreapp3.0\Core.Core.AssemblyInfo.cs
-C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Core\obj\Debug\netcoreapp3.0\Core.Core.dll
-C:\Users\Eddie\Desktop\salao\BeautifyYourself\src\Core.Core\obj\Debug\netcoreapp3.0\Core.Core.pdb
