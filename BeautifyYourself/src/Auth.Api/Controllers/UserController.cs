@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Auth.Core.Domain;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System;
@@ -18,13 +19,13 @@ namespace Auth.Api.Controllers
         }
 
         [HttpPost]
-        public IActionResult Login([FromBody]User user)
+        public IActionResult Login(string email, string password)
         {
-            bool resultado = ValidarUsuario(user);
+            bool resultado = ValidarUsuario(email, password);
             if (resultado)
             {
                 var tokenString = GerarTokenJWT();
-                return Ok(new { Token = tokenString, User = new { Id = 0 } });
+                return Ok(new { Token = tokenString, User = new User("Guilherme", "seila@mail.com")});
             }
             else
             {
@@ -56,9 +57,9 @@ namespace Auth.Api.Controllers
             var stringToken = tokenHandler.WriteToken(token);
             return stringToken;
         }
-        private bool ValidarUsuario(User user)
+        private bool ValidarUsuario(string email, string password)
         {
-            if (user.EMail == "gui" && user.Password == "1234")
+            if (email == "gui" && password == "1234")
             {
                 return true;
             }
