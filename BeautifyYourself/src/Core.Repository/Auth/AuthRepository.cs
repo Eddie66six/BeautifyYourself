@@ -21,7 +21,7 @@ namespace Core.Repository.Auth
         }
         public dynamic Login(User user)
         {
-            HttpResponseMessage response = client.PostAsync("User", new StringContent(JsonSerializer.Serialize(user), Encoding.UTF8, "application/json")).Result;
+            HttpResponseMessage response = client.PostAsync($"User?email={user.Email}&password={user.Password}", new StringContent("", Encoding.UTF8, "application/json")).Result;
             if (response.IsSuccessStatusCode)
             {
                 var json = response.Content.ReadAsStringAsync().Result;

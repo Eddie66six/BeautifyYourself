@@ -5,15 +5,15 @@
         protected User()
         {
         }
-        public User(string name, string eMail)
+        public User(string name, string email)
         {
             Name = name;
-            EMail = eMail;
+            Email = email;
         }
 
         public int UserId { get; set; }
         public string Name { get; set; }
-        public string EMail { get; set; }
+        public string Email { get; set; }
         public string Password { get; set; }
     }
 }
